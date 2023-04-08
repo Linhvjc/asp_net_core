@@ -10183,19 +10183,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\phanp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\studying\\Application_development\\code\\Assignment\\Assignment.csproj",
+      "projectUniqueName": "D:\\GW\\1670\\ASM\\asp_net_core\\Assignment.csproj",
       "projectName": "Assignment",
-      "projectPath": "D:\\studying\\Application_development\\code\\Assignment\\Assignment.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\studying\\Application_development\\code\\Assignment\\obj\\",
+      "projectPath": "D:\\GW\\1670\\ASM\\asp_net_core\\Assignment.csproj",
+      "packagesPath": "C:\\Users\\phanp\\.nuget\\packages\\",
+      "outputPath": "D:\\GW\\1670\\ASM\\asp_net_core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\phanp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10267,7 +10267,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

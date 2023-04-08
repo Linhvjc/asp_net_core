@@ -5,56 +5,73 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Assignment
 build_property.RootNamespace = Assignment
-build_property.ProjectDir = D:\studying\Application_development\code\Assignment\
+build_property.ProjectDir = D:\GW\1670\ASM\asp_net_core\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = D:\studying\Application_development\code\Assignment
+build_property.MSBuildProjectDirectory = D:\GW\1670\ASM\asp_net_core
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/studying/Application_development/code/Assignment/Areas/Shop/Views/Home/Index.cshtml]
+[D:/GW/1670/ASM/asp_net_core/Areas/Shop/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2hvcFxWaWV3c1xIb21lXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/studying/Application_development/code/Assignment/Areas/Shop/Views/Shared/_ShopLayout.cshtml]
+[D:/GW/1670/ASM/asp_net_core/Areas/Shop/Views/Shared/_ShopLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2hvcFxWaWV3c1xTaGFyZWRcX1Nob3BMYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/studying/Application_development/code/Assignment/Areas/Shop/Views/Shared/_ViewStart.cshtml]
+[D:/GW/1670/ASM/asp_net_core/Areas/Shop/Views/Shared/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2hvcFxWaWV3c1xTaGFyZWRcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/studying/Application_development/code/Assignment/Areas/Shop/Views/_ViewImports.cshtml]
+[D:/GW/1670/ASM/asp_net_core/Areas/Shop/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcU2hvcFxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/studying/Application_development/code/Assignment/Views/Home/Index.cshtml]
+[D:/GW/1670/ASM/asp_net_core/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/studying/Application_development/code/Assignment/Views/Home/Privacy.cshtml]
+[D:/GW/1670/ASM/asp_net_core/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/studying/Application_development/code/Assignment/Views/Shared/Error.cshtml]
+[D:/GW/1670/ASM/asp_net_core/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/studying/Application_development/code/Assignment/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/GW/1670/ASM/asp_net_core/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/studying/Application_development/code/Assignment/Views/_ViewImports.cshtml]
+[D:/GW/1670/ASM/asp_net_core/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/studying/Application_development/code/Assignment/Views/_ViewStart.cshtml]
+[D:/GW/1670/ASM/asp_net_core/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/studying/Application_development/code/Assignment/Views/Shared/_Layout.cshtml]
+[D:/GW/1670/ASM/asp_net_core/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GW/1670/ASM/asp_net_core/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GW/1670/ASM/asp_net_core/Areas/Admin/Views/Shared/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GW/1670/ASM/asp_net_core/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/GW/1670/ASM/asp_net_core/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-y18fyt0aqx
