@@ -1,0 +1,89 @@
+﻿@model IEnumerable<Assignment.Models.Book>
+
+@{
+    ViewData["Title"] = "Category Index";
+    Layout = "~/Areas/Shop/Views/Shared/_ShopLayout.cshtml";
+}
+
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+            <div class="d-flex mb-3">
+                <div class="me-auto p-2">
+                    <div class="input-group">
+                        <div class="form-outline">
+                            <input type="search" id="form1" class="form-control" placeholder="Search product" />
+                        </div>
+                        <button type="button" class="btn btn-primary">
+                            <i class="fas fa-search"></i>
+                        </button>
+                    </div>
+                </div>
+                <div class="p-2">
+                    <form asp-area="Shop" asp-controller="Product" asp-action="AddProduct" method="post">
+                        <button type="submit" class="btn btn-primary">Add a new product</button>
+                    </form> 
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-lg-12 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Book Table</h4>
+                        </p>
+                        <table class="table table-striped" style="width:100%;">
+                            <thead>
+                                <tr>
+                                    <th> ID </th>
+                                    <th> Product Name </th>
+                                    <th> Image </th>
+                                    <th> Price </th>
+                                    <th> Quantity </th>
+                                    <th> Status</th>
+                                    <th style="text-align:center"> Action</th>
+                                   
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @if (Model != null)
+                                {
+                                    @foreach (var book in Model)
+                                    {
+                                        <tr>
+                                            <td>
+                                                @book.ID
+                                            </td>
+                                            <td> @book.Name </td>
+                                            <td>
+                                                <img src="~/images/products/@book.Image" style=" border-radius:1%"  />
+                                            </td>
+                                            <td>
+                                                @if(@book.DiscountPrice == null){
+                                                    @book.Price
+                                                }else{
+                                                    @book.DiscountPrice
+                                                }
+                                            </td>
+                                            <td>@book.Quantity</td>
+                                            <td> <label class="badge badge-danger">@book.Status</label></td>
+                                            <td class="d-flex justify-content-center" style="gap:20px">
+                                                <a href="@Url.Action("UpdateProduct","Product",new {id = book.ID})" type="button" class="btn btn-gradient-success btn-rounded btn-block">Edit</a>
+                                                @using (Html.BeginForm("RemoveConfirmed", "Product", new { id = book.ID }, FormMethod.Post))
+                                                {
+                                                    <input type="submit" class="btn btn-gradient-warning btn-rounded btn-block"
+                                               onclick="return confirm('Are you sure you want to remove?')" value="Remove" />
+                                                }
+                                        </tr>
+                                    }
+                                }else{
+                                    <p>No record found</p>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+

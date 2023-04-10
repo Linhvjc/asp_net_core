@@ -43,6 +43,6 @@ namespace Assignment.Models
         public int CategoryID { set; get; }
 
         [ForeignKey("CategoryID")]
-        public virtual Category Category { get; set; }
+        public virtual Category? Category { get; set; }
     }
 }
