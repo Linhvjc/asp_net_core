@@ -1,0 +1,573 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Assignment.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Assignment.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\images\\Screenshot_23.png",
+      "PackagePath": "staticwebassets\\images\\Screenshot_23.png"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\images\\a.docx",
+      "PackagePath": "staticwebassets\\images\\a.docx"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\images\\banner.png",
+      "PackagePath": "staticwebassets\\images\\banner.png"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\images\\banner2.avif",
+      "PackagePath": "staticwebassets\\images\\banner2.avif"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\images\\banner3.png",
+      "PackagePath": "staticwebassets\\images\\banner3.png"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\images\\book1.webp",
+      "PackagePath": "staticwebassets\\images\\book1.webp"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\images\\book2.webp",
+      "PackagePath": "staticwebassets\\images\\book2.webp"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\images\\book3.webp",
+      "PackagePath": "staticwebassets\\images\\book3.webp"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\images\\f1.png",
+      "PackagePath": "staticwebassets\\images\\f1.png"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\images\\f2.png",
+      "PackagePath": "staticwebassets\\images\\f2.png"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\images\\f3.png",
+      "PackagePath": "staticwebassets\\images\\f3.png"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\images\\f4.png",
+      "PackagePath": "staticwebassets\\images\\f4.png"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\images\\f5.png",
+      "PackagePath": "staticwebassets\\images\\f5.png"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\images\\f6.png",
+      "PackagePath": "staticwebassets\\images\\f6.png"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\images\\landingpage.png",
+      "PackagePath": "staticwebassets\\images\\landingpage.png"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\css\\style.css",
+      "PackagePath": "staticwebassets\\shop\\css\\style.css"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\dashboard\\circle.png",
+      "PackagePath": "staticwebassets\\shop\\images\\dashboard\\circle.png"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\dashboard\\circle.svg",
+      "PackagePath": "staticwebassets\\shop\\images\\dashboard\\circle.svg"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\dashboard\\img_1.jpg",
+      "PackagePath": "staticwebassets\\shop\\images\\dashboard\\img_1.jpg"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\dashboard\\img_2.jpg",
+      "PackagePath": "staticwebassets\\shop\\images\\dashboard\\img_2.jpg"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\dashboard\\img_3.jpg",
+      "PackagePath": "staticwebassets\\shop\\images\\dashboard\\img_3.jpg"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\dashboard\\img_4.jpg",
+      "PackagePath": "staticwebassets\\shop\\images\\dashboard\\img_4.jpg"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\faces-clipart\\pic-1.png",
+      "PackagePath": "staticwebassets\\shop\\images\\faces-clipart\\pic-1.png"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\faces-clipart\\pic-2.png",
+      "PackagePath": "staticwebassets\\shop\\images\\faces-clipart\\pic-2.png"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\faces-clipart\\pic-3.png",
+      "PackagePath": "staticwebassets\\shop\\images\\faces-clipart\\pic-3.png"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\faces-clipart\\pic-4.png",
+      "PackagePath": "staticwebassets\\shop\\images\\faces-clipart\\pic-4.png"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\shop\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\shop\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\shop\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\shop\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\shop\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\shop\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\shop\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\shop\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\shop\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\shop\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\shop\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\shop\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\shop\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\shop\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\shop\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\shop\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\shop\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\shop\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\shop\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\shop\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\shop\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\shop\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\shop\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\shop\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\shop\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\shop\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\shop\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\shop\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\shop\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\shop\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\shop\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\sprites\\blue.png",
+      "PackagePath": "staticwebassets\\shop\\images\\sprites\\blue.png"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\sprites\\dark.png",
+      "PackagePath": "staticwebassets\\shop\\images\\sprites\\dark.png"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\sprites\\flag.png",
+      "PackagePath": "staticwebassets\\shop\\images\\sprites\\flag.png"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\sprites\\green.png",
+      "PackagePath": "staticwebassets\\shop\\images\\sprites\\green.png"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\sprites\\jsgrid-icons.png",
+      "PackagePath": "staticwebassets\\shop\\images\\sprites\\jsgrid-icons.png"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\sprites\\red.png",
+      "PackagePath": "staticwebassets\\shop\\images\\sprites\\red.png"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\images\\sprites\\yellow.png",
+      "PackagePath": "staticwebassets\\shop\\images\\sprites\\yellow.png"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\shop\\js\\dashboard.js"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\shop\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\js\\misc.js",
+      "PackagePath": "staticwebassets\\shop\\js\\misc.js"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\shop\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\shop\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\vendors\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\shop\\vendors\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\shop\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\shop\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\shop\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\shop\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\shop\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\shop\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "D:\\GW\\1670\\ASM\\asp_net_core\\wwwroot\\shop\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\shop\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Assignment.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Assignment.props",
+      "PackagePath": "build\\Assignment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Assignment.props",
+      "PackagePath": "buildMultiTargeting\\Assignment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Assignment.props",
+      "PackagePath": "buildTransitive\\Assignment.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

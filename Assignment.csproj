@@ -8,14 +8,42 @@
 	
 
   <ItemGroup>
+    <Compile Remove="Areas\Admin\**" />
     <Compile Remove="Areas\Shop\View\**" />
+    <Content Remove="Areas\Admin\**" />
     <Content Remove="Areas\Shop\View\**" />
+    <EmbeddedResource Remove="Areas\Admin\**" />
     <EmbeddedResource Remove="Areas\Shop\View\**" />
+    <None Remove="Areas\Admin\**" />
     <None Remove="Areas\Shop\View\**" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Areas\Admin\" />
+    <Compile Include="Areas\Admin\Controllers\HomeController.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Areas\Admin\Views\Home\Index.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="Areas\Admin\Views\Shared\_AdminLayout.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="Areas\Admin\Views\Shared\_ViewStart.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="Areas\Admin\Views\_ViewImports.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\Admin\Data\" />
+    <Folder Include="Areas\Admin\Models\" />
     <Folder Include="Areas\Shop\Data\" />
     <Folder Include="Areas\Shop\Models\" />
     <Folder Include="Areas\Shop\Assets\" />
